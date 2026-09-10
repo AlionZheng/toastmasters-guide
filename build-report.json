@@ -1,0 +1,28 @@
+{
+  "chapters": [
+    {
+      "title": "会员篇",
+      "lines": 161,
+      "images": 50
+    },
+    {
+      "title": "俱乐部干事篇",
+      "lines": 48,
+      "images": 15
+    },
+    {
+      "title": "大区干事篇",
+      "lines": 30,
+      "images": 9
+    },
+    {
+      "title": "官网智能问答",
+      "lines": 21,
+      "images": 6
+    }
+  ],
+  "wechat_articles": 8,
+  "article_failures": [],
+  "image_files": 88,
+  "image_failures": []
+}
